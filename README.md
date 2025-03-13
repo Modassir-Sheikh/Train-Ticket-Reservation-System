@@ -3,17 +3,17 @@
 Online Train Information and Reservation
 This Website is built for following purpose:-
 
-View Trains Schedule
-Search Trains
-Seat Availability
-Train Timings
-Fare Enquiry
-Trains Between Stations
-Booking seats online.
-Login and Logout Security
-Password Changes
-Payment Gateway
-Ticket Booking History
+- View Trains Schedule
+- Search Trains
+- Seat Availability
+- Train Timings
+- Fare Enquiry
+- Trains Between Stations
+- Booking seats online.
+- Login and Logout Security
+- Password Changes
+- Payment Gateway
+- Ticket Booking History
 
 
 ## About
