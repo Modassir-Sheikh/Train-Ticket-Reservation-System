@@ -59,6 +59,6 @@ public class AdminBean implements Serializable {
 	}
 
 	public long getPhNo() {
-		retun phNo;
+		return phNo;
 	}
 }
