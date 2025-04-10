@@ -52,7 +52,7 @@ public class BookingDetails implements Serializable {
 	}
 
 	public void setTo_stn(String to_stn) {
-		this.to_stn = to_stn;
+		this.tostn = to_stn;
 	}
 
 	public int getSeats() {
