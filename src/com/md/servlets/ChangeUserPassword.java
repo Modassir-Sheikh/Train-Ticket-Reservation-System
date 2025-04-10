@@ -13,8 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 import com.md.constant.UserRole;
 import com.md.utility.TrainUtil;
 
-//import com.shashi.beans.UserBean;
-
 @SuppressWarnings("serial")
 @WebServlet("/changeuserpassword")
 public class ChangeUserPassword extends HttpServlet {
